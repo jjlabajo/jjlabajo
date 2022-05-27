@@ -1,4 +1,4 @@
-<img src="https://github.com/jjlabajo/jjlabajo/blob/1db610e50c106dcf9f3c369d124c67de1b9611a0/Banner.gif" />
+<img src="Banner.gif" />
 
 <h1 align="center">Hello World 👋, I'm JJ Labajo</h1>
 <h3 align="center">I'm a developer from the Philippines</h3>
