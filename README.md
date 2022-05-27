@@ -18,16 +18,9 @@
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a>
 <br/>
 
-<hr/>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jjlabajo&show_icons=true&locale=en&layout=compact" alt="jjlabajo" /></p>
-<br/>
-
-<hr/>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jjlabajo&show_icons=true&locale=en" alt="jjlabajo" /></p>
 <br/>
 
-<hr/>
+<br/>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jjlabajo&" alt="jjlabajo" /></p>
