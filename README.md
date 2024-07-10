@@ -1,6 +1,6 @@
 <h1 align="center">Hello World 👋</h1>
 
-<p>You can call me Joe. </p>
+<p>My name is Joe. </p>
 
 <p> I live in the Philippines and sometimes travel in some parts of Asia. I've been a developer since 2018 when I got my degree in IT.</p>
 
