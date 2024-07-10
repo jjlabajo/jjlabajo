@@ -16,7 +16,7 @@
   <li>I play Dota 2 and buy skins for bragging rights xD (My rank is just Legend) </li>
   <li>I play Valorant as well but only seldom, only when I miss the feeling of playing it.</li>
   <li>I go cafe-hopping especially to aesthetic ones.</li>
-  <li>I also binge-watch anime, as in in one sitting.</li>
+  <li>I also binge-watch anime or a series, as in in one sitting.</li>
 </ul>
 
 <p>Music:</p>
