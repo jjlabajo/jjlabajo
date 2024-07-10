@@ -2,7 +2,7 @@
 
 <p>My name is Joe. </p>
 
-<p> I live in the Philippines and sometimes travel in some parts of Asia. I've been a developer since 2018 when I got my degree in IT.</p>
+<p> I live in the Philippines. I've been a developer since 2018 when I got my degree in IT.</p>
 
 <p>I have attempted to create my own Software over the years. I founded API Artisan, UnliBase and Backender.io - all of them are back-end development related.</p>
 <p> In my spare time I still create and tinker with back-end tech and also with new tech such as AI and Machine Learning.</p>
