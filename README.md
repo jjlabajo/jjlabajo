@@ -4,11 +4,9 @@
 
 <p> I live in the Philippines. I've been a developer since 2018 when I got my degree in IT.</p>
 
-<p>I work full time at New Alchemy🔥.</p>
+<p>I work full time at New Alchemy🔥. In my spare time I still create and tinker with back-end tech and also with new tech such as AI and Machine Learning.</p>
 
-<p> In my spare time I still create and tinker with back-end tech and also with new tech such as AI and Machine Learning.</p>
-
-<q> I always believe that programming is also a form of art that combines both logical and creative part of a person.</q>
+<q><b>I always believe that programming is also a form of art that combines both logical and creative part of a person.</b></q>
 
 <p>Outside tech:</p>
 <ul>
@@ -16,7 +14,7 @@
   <li>I sometimes go for swimming as a form of meditation.</li>
   <li>I play Dota 2 and buy skins for bragging rights xD (My rank is just Legend) </li>
   <li>I play Valorant as well but only seldom, only when I miss the feeling of playing it.</li>
-  <li>I go cafe-hopping especially to aesthetic ones.</li>
+  <li>I go cafe-hopping especially to estitik😂 ones.</li>
   <li>I also binge-watch anime or series, as in in one sitting.</li>
 </ul>
 
