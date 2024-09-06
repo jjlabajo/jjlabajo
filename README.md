@@ -10,12 +10,13 @@
 
 <p>Outside tech:</p>
 <ul>
+  <li>I love spending time with my kiddo.</li>
   <li>I enjoy Karaoke-ing with family or friends.</li>
   <li>I play Dota 2, Valorant and Chess, I usually buy game skins for plus damage and morale xD </li>
   <li>I also binge-watch anime or series, but i do have a particular taste hihi.</li>
 </ul>
   
-<p>Basically a coffee-blooded ramen-loving fashion-particular cat-petting techy otaku. 😂</p>
+<p>Basically a coffee-blooded ramen-loving fashion-particular cat-petting techy otaku dad. 😂</p>
 
 <p>Music:</p>
 <ul>
