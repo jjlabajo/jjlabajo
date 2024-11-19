@@ -26,3 +26,5 @@
   <li>Radwimps</li>
   <li>PH Rap (Loonie, Flow G, Apekz, Abra) </li>
 </ul>
+
+[![](https://visitcount.itsvg.in/api?id=jjlabajo&icon=0&color=0)](https://visitcount.itsvg.in)
