@@ -4,7 +4,7 @@
 
 <p> I live in the Philippines. I've been a developer since 2018 when I got my degree in IT.</p>
 
-<p>I work full time at New Alchemy🔥. In my spare time I still create and tinker with new tech such as AI and Machine Learning.</p>
+<p> I create and tinker with new tech such as AI and Machine Learning.</p>
 
 <q><b>I always believe that programming is also a form of art that combines both logical and creative part of a person.</b></q>
 
